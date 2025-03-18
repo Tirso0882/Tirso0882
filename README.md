@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tirso0882.
+- 👋 Hi, I’m @Tirso
 
 
 - 👀 I’m interested in Generative AI, computer vision, and distributed system. With experience in developing ETL pipelines, working with LLMs for document analysis, and building real-time object recognition systems, I'm always exploring new ways to integrate AI into data-driven solutions.
